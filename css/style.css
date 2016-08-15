@@ -66,7 +66,6 @@ ul {
 }
 .panel {
 	background: #E0E0E0;
-	overflow-y: hidden;
 }
 .panel .column-card-list {
 	height: 100%;
